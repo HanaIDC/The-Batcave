@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component name="libraryTable">
+  <library name="mysql-connector-j-9.5.0">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Efarm/lib/mysql-connector-j-9.5.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
+
