@@ -26,4 +26,4 @@ Contributions are welcome.  Please open an issue or submit a pull request with y
 
 ## License
 
-This project is currently unlicensed.  Consider adding a license to clarify usage terms.
+This project is currently unlicensed.
